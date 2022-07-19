@@ -4034,3 +4034,65 @@ INFO: Unsupported notification method: $/setTrace
 2022.07.10 18:26:20 INFO  shutting down Metals
 2022.07.10 18:27:21 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\.metals\lsp.trace.json or C:\Users\Kawya Sandamini\AppData\Local\scalameta\metals\cache\lsp.trace.json
 2022.07.10 18:27:22 INFO  logging to file C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\.metals\metals.log
+2022.07.10 18:27:22 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2' for client Visual Studio Code 1.69.0.
+2022.07.10 18:27:23 INFO  time: initialize in 0.95s
+2022.07.10 18:27:23 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.10 18:27:23 WARN  Build server is not auto-connectable.
+2022.07.10 18:27:23 WARN  no build tool detected in workspace 'C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.10 18:27:27 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q4b.scala
+Jul 10, 2022 6:27:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.07.10 18:27:31 INFO  no build target found for C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q4b.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.10 18:27:32 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\tempCodeRunnerFile.scala
+2022.07.10 18:27:32 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q4a.scala
+Jul 10, 2022 6:27:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Jul 10, 2022 6:27:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Jul 10, 2022 6:27:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2022.07.10 18:27:32 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q4b.scala
+2022.07.10 18:27:34 INFO  time: code lens generation in 2.31s
+2022.07.10 18:27:34 INFO  time: code lens generation in 2.51s
+2022.07.10 18:27:34 INFO  time: code lens generation in 2.68s
+2022.07.10 18:27:34 INFO  time: code lens generation in 7.18s
+Jul 10, 2022 6:27:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.07.10 18:40:38 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q3Part2.scala
+2022.07.10 18:41:14 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q4a.scala
+2022.07.10 18:41:48 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q4b.scala
+2022.07.10 18:44:37 INFO  shutting down Metals
+2022.07.12 08:49:58 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\.metals\lsp.trace.json or C:\Users\Kawya Sandamini\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.12 08:49:59 INFO  logging to file C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\.metals\metals.log
+2022.07.12 08:49:59 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2' for client Visual Studio Code 1.69.0.
+2022.07.12 08:50:00 INFO  time: initialize in 1.19s
+2022.07.12 08:50:00 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.12 08:50:00 WARN  Build server is not auto-connectable.
+2022.07.12 08:50:00 WARN  no build tool detected in workspace 'C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.12 08:50:04 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q4b.scala
+Jul 12, 2022 8:50:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.07.12 08:50:13 INFO  no build target found for C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q4b.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.12 08:50:14 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q1Q2Q3.scala
+2022.07.12 08:50:16 INFO  time: code lens generation in 6.16s
+2022.07.12 08:50:16 INFO  time: code lens generation in 11s
+2022.07.12 08:50:16 INFO  time: code lens generation in 1.49s
+2022.07.12 08:50:16 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q3Part2.scala
+2022.07.12 08:50:18 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q1Q2Q3.scala
+2022.07.12 15:56:01 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\.metals\lsp.trace.json or C:\Users\Kawya Sandamini\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.12 15:56:02 INFO  logging to file C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\.metals\metals.log
+2022.07.12 15:56:02 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2' for client Visual Studio Code 1.69.0.
+2022.07.12 15:56:03 INFO  time: initialize in 0.99s
+2022.07.12 15:56:07 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.12 15:56:07 WARN  Build server is not auto-connectable.
+2022.07.12 15:56:07 WARN  no build tool detected in workspace 'C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.12 15:56:10 WARN  no build target for: C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\Q1Q2Q3.scala
+2022.07.17 13:56:23 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\20000855\.metals\lsp.trace.json or C:\Users\Kawya Sandamini\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.17 13:56:24 INFO  logging to file C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\20000855\.metals\metals.log
+2022.07.17 13:56:24 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\20000855' for client Visual Studio Code 1.69.0.
+2022.07.17 13:56:26 INFO  time: initialize in 2.04s
+2022.07.17 13:56:31 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.17 13:56:31 WARN  Build server is not auto-connectable.
+2022.07.17 13:56:31 WARN  no build tool detected in workspace 'C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\20000855'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.19 07:59:12 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\20000855\.metals\lsp.trace.json or C:\Users\Kawya Sandamini\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.19 07:59:16 INFO  logging to file C:\Users\Kawya Sandamini\Documents\MyDocuments\Year 2\SCS2204 Functional Programming\Practical\Tutorial 2\20000855\.metals\metals.log
